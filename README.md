@@ -64,3 +64,11 @@ Mosvita-Bold.woff2
 Mosvita-ExtraBold.woff2
 Mosvita-Black.woff2
 ```
+
+## Publicação (GitHub Pages)
+
+Cada push na `main` compila e publica o site automaticamente
+(`.github/workflows/deploy.yml`). Para ativar, uma vez só:
+**Settings → Pages → Build and deployment → Source: GitHub Actions**.
+
+O endereço fica `https://designerlaynara.github.io/cronograma-de-ferias/`.
